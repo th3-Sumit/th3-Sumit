@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hospital Management System<br>👯 I’m looking to collaborate on web development related project.<br>🤝 I’m looking for help with Internships<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about JAVA <br>⚡ Fun fact - I am lazy but smart....!!<br>
+🔭 I’m currently working on JAVA NETWORKING PROJECT...!!<br>👯 I’m looking to collaborate on web development related project.<br>🤝 I’m looking for help with Internships<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about JAVA <br>⚡ Fun fact - I am lazy but smart....!!<br>
 
 
 ## 🌐 Socials:
