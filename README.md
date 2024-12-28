@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JAVA NETWORKING PROJECT...!!<br>👯 I’m looking to collaborate on web development related project.<br>🤝 I’m looking for help with Internships<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about JAVA <br>⚡ Fun fact - I am lazy but smart....!!<br><br>⚡ Follow me : https://sumitkumarsingh.netlify.app/ 🤝<br>
+🔭 I’m currently working on Live Messageing/Streaming App Project...!!<br>👯 I’m looking to collaborate on web development related project.<br>🤝 I’m looking for help with new oppertunity.<br>🌱 I’m currently exploring Express and MongoDB<br>💬 Ask me about JAVASCRIPT and ReactJS <br>⚡ Fun fact - I am lazy but smart....!!<br><br>⚡ Follow me for more fun and activity. 🤝<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit_singh.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar-b89b39206) 
